@@ -21,7 +21,6 @@
 🧬 Exploring the fascinating intersection of **AI** and **Biology**  
 💡 Building innovative solutions that make a real-world impact
 
-- 🎓 **Education:** BS in Computer Science (2022-2026)
 - 📍 **Location:** Tehran, Iran
 - 🌱 **Currently Learning:** Advanced Deep RL, Bioinformatics Algorithms
 - 💬 **Ask me about:** Python, ML/DL, Bioinformatics, Web Development
