@@ -5,7 +5,7 @@
 ### 🧬 Computer Science Student | ML Enthusiast | AI Researcher
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://mr-ahmadi.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mr-ahmadi2004@outlook.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:aliahmadiesfidi@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Reinforcement+Learning+Researcher;Computational+Biology+Enthusiast;Full-Stack+Developer;AI+%26+Machine+Learning+Engineer" alt="Typing SVG" />
@@ -131,7 +131,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge)](https://mr-ahmadi.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/📧_Email-mr--ahmadi2004@outlook.com-red?style=for-the-badge)](mailto:mr-ahmadi2004@outlook.com)
+[![Email](https://img.shields.io/badge/📧_Email-mr--ahmadi2004@outlook.com-red?style=for-the-badge)](mailto:aliahmadiesfidi@outlook.com)
 [![CV](https://img.shields.io/badge/📄_Download_CV-PDF-orange?style=for-the-badge)](https://mr-ahmadi.github.io/Portfolio/assets/Curriculum_Vitae.pdf)
 
 </div>
