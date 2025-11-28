@@ -131,7 +131,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge)](https://mr-ahmadi.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/📧_Email-mr--ahmadi2004@outlook.com-red?style=for-the-badge)](mailto:aliahmadiesfidi@outlook.com)
+[![Email](https://img.shields.io/badge/📧_Email-aliahmadiesfidi@outlook.com-red?style=for-the-badge)](mailto:aliahmadiesfidi@outlook.com)
 [![CV](https://img.shields.io/badge/📄_Download_CV-PDF-orange?style=for-the-badge)](https://mr-ahmadi.github.io/Portfolio/assets/Curriculum_Vitae.pdf)
 
 </div>
