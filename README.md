@@ -40,10 +40,10 @@ Building practical AI systems, scalable software products, and intelligent solut
 
 <div align="center">
 
+<img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mr-Ahmadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<br/>
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mr-Ahmadi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=Mr-Ahmadi&theme=tokyonight&hide_border=true"/>
-<br/>
-<img width="46%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mr-Ahmadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
