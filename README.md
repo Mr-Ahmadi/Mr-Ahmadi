@@ -36,27 +36,23 @@ Building practical AI systems, scalable software products, and intelligent solut
 </div>
 
 ---
-
 ## 📈 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mr-Ahmadi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+<!-- Alternative stable stats mirror -->
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mr-Ahmadi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+<!-- Alternative stable top-langs mirror -->
+<img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mr-Ahmadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Ahmadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<br/>
 
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Ahmadi&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mr-Ahmadi&theme=tokyonight&no-frame=true&row=1&column=6" />
+<!-- Active GitHub Streak alternative domain -->
+<img width="55%" src="https://streak-stats.demolab.com/?user=Mr-Ahmadi&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
-
 ## 🚀 What I Do
 
 🔹 **AI & Intelligent Systems**
@@ -75,8 +71,7 @@ Create intelligent scheduling systems and workflow automation tools.
 Transform academic research and cutting-edge papers into practical software solutions.
 
 ---
-
-# 🧰 Tech Stack
+## 🧰 Tech Stack
 
 ### 💻 Languages
 
