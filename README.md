@@ -135,13 +135,10 @@ Transform academic research and cutting-edge papers into practical software solu
 🌐 Distributed & High-Performance Computing
 
 ---
-
 ## 🤝 Let's Collaborate
 
 
 I'm always open to discussing research, contributing to open-source, or partnering on impactful AI & full‑stack projects.
-
-<br>
 
 <div align="center">
 
