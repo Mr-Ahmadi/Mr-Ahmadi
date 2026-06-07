@@ -1,139 +1,157 @@
 <div align="center">
 
-# 👋 Hi, I'm Ali Ahmadi Esfidi
+# ⚡ Ali Ahmadi Esfidi
 
-### 🧬 Computer Science Student | ML Enthusiast | AI Researcher
+### 🧠 AI Researcher • 🌐 Full-Stack Software Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://mr-ahmadi.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:aliahmadiesfidi@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+<p align="center">
+Building practical AI systems, scalable software products, and intelligent solutions that bridge research and real-world applications.
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Reinforcement+Learning+Researcher;Computational+Biology+Enthusiast;Full-Stack+Developer;AI+%26+Machine+Learning+Engineer" alt="Typing SVG" />
+<p align="center">
+🎓 <strong>Final-year Computer Science Student</strong> at <a href="https://aut.ac.ir/en">Amirkabir University of Technology</a>
+<br>
+🧬 <strong>Applied AI Domains:</strong> Infrastructure Optimization • Bioinformatics • Agriculture • Automation
+</p>
 
-</div>
+<p align="center">
 
----
+<a href="https://mr-ahmadi.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/ali-ahmadi-esfidi/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Mr-Ahmadi">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://mr-ahmadi.github.io/Portfolio/assets/Ali%20Ahmadi%20Esfidi.pdf">
+<img src="https://img.shields.io/badge/CV-Download-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 
-## 🎓 About Me
+</p>
 
-🎯 Passionate **Computer Science** student at **Amirkabir University of Technology** (Tehran Polytechnic)  
-🔬 Specializing in **Machine Learning**, **Reinforcement Learning**, and **Computational Biology**  
-🧬 Exploring the fascinating intersection of **AI** and **Biology**  
-💡 Building innovative solutions that make a real-world impact
-
-- 📍 **Location:** Tehran, Iran
-- 🌱 **Currently Learning:** Advanced Deep RL, Bioinformatics Algorithms
-- 💬 **Ask me about:** Python, ML/DL, Bioinformatics, Web Development
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🤖 AI/ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![BioPython](https://img.shields.io/badge/BioPython-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Ahmadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Ahmadi&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Ahmadi&theme=tokyonight&hide_border=true)
+<img src="https://komarev.com/ghpvc/?username=Mr-Ahmadi&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/>
 
 </div>
 
 ---
-## 🎯 Fields of Interest
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80px"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mr-Ahmadi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
 
-### AI & ML
-`Reinforcement Learning`  
-`Deep Learning`  
-`Machine Learning`  
-`Neural Networks`
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Ahmadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/000000/external-biology-science-flaticons-lineal-color-flat-icons-2.png" width="80px"/>
-
-### Biology
-`Computational Biology`  
-`Bioinformatics`  
-`RNA Structure`  
-`Protein Analysis`
-
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="80px"/>
-
-### Development
-`Full-Stack Web`  
-`Algorithm Design`  
-`Desktop Apps`  
-`API Development`
-
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/microscope.png" width="80px"/>
-
-### Research
-`Computer Vision`  
-`Agriculture AI`  
-`Applied ML`
-
-</td>
-</tr>
-</table>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Ahmadi&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-## 📫 Let's Connect!
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge)](https://mr-ahmadi.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/📧_Email-aliahmadiesfidi@outlook.com-red?style=for-the-badge)](mailto:aliahmadiesfidi@outlook.com)
-[![CV](https://img.shields.io/badge/📄_Download_CV-PDF-orange?style=for-the-badge)](https://mr-ahmadi.github.io/Portfolio/assets/Curriculum_Vitae.pdf)
+<img src="https://github-profile-trophy.vercel.app/?username=Mr-Ahmadi&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
 ---
+
+## 🚀 What I Do
+
+🔹 **AI & Intelligent Systems**
+Design, train, and deploy Machine Learning and Deep Reinforcement Learning systems.
+
+🔹 **Full-Stack Engineering**
+Develop scalable applications and modern web platforms from architecture to deployment.
+
+🔹 **Computational Biology**
+Build bioinformatics algorithms and data-driven systems for complex biological challenges.
+
+🔹 **Optimization & Automation**
+Create intelligent scheduling systems and workflow automation tools.
+
+🔹 **Research → Production**
+Transform academic research and cutting-edge papers into practical software solutions.
+
+---
+
+# 🧰 Tech Stack
+
+### 💻 Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+
+</p>
+
+### 🤖 AI / Machine Learning / Data
+
+<p>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</p>
+
+### 🌐 Frameworks
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+
+</p>
+
+### 🗄️ Databases & DevOps
+
+<p>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</p>
+
+---
+
+## 🎯 Research & Focus Areas
+
+🧠 Deep Reinforcement Learning & Multi-Agent Systems
+📊 Scalable Machine Learning Systems & MLOps
+🧬 Bioinformatics & Computational Genomics
+📅 Combinatorial Optimization & Intelligent Scheduling
+🌐 Distributed & High-Performance Computing
+
+---
+
+## 🤝 Let's Collaborate
+
+
+I'm always open to discussing research, contributing to open-source, or partnering on impactful AI & full‑stack projects.
+
+<br>
+
+<div align="center">
+
+<a href="mailto:aliahmadiesfidi@outlook.com">
+<img src="https://img.shields.io/badge/Outlook-Contact%20Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+</a>
+
+</div>
