@@ -43,7 +43,7 @@ Building practical AI systems, scalable software products, and intelligent solut
 <img width="35%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mr-Ahmadi&layout=compact&theme=default&hide_border=true&langs_count=8"/>
 <br/>
 <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mr-Ahmadi&show_icons=true&theme=default&count_private=true&hide_border=true"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Mr-Ahmadi&theme=default&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Ahmadi&theme=default&hide_border=true"/>
 
 </div>
 
